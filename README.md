@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Elroy Hans Anggada!
 
 🎓 Computer Science Student @ BINUS University (Expected Graduation: 2027)  
-📧 elroy.anggada@binus.ac.id | 📱 +62 812-6423-9888  
+📧 elroy.anggada@binus.ac.id
 🔗 [LinkedIn](https://www.linkedin.com/in/elroyhans/)
 
 ---
